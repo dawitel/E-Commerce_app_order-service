@@ -3,7 +3,7 @@ package internal
 import (
 	"fmt"
 
-	"github.com/dawitel/grpc-go/proto/orders"
+	"github.com/dawitel/E-Commerce_app_order-service/proto/orders"
 )
 
 type DB struct {

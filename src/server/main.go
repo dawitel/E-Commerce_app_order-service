@@ -4,8 +4,8 @@ import (
 	"log"
 	"net"
 	
-	"github.com/dawitel/grpc-go/internal"
-	"github.com/dawitel/grpc-go/protogen/golang/orders"
+	"github.com/dawitel/E-Commerce_app_order-service/internal"
+	"github.com/dawitel/E-Commerce_app_order-service/protogen/golang/orders"
 	
 	"google.golang.org/grpc"
 )

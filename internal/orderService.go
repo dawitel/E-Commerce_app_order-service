@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/dawitel/grpc-go/protogen/golang/orders"
+	"github.com/dawitel/E-Commerce_app_order-service/protogen/golang/orders"
 )
 
 // The orderService implements the order_service interface created from gRPC

@@ -7,8 +7,8 @@ import (
 	"google.golang.org/genproto/googleapis/type/date"
 	"google.golang.org/protobuf/encoding/protojson"
 
-	"github.com/dawitel/grpc-go/protogen/golang/orders"
-	"github.com/dawitel/grpc-go/protogen/golang/product"
+	"github.com/dawitel/E-Commerce_app_order-service/protogen/golang/orders"
+	"github.com/dawitel/E-Commerce_app_order-service/protogen/golang/product"
 )
 
 func main() {

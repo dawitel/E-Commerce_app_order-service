@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/dawitel[grpc-go/protogen/golang/orders"
+	"github.com/dawitel/E-Commerce_app_order-service/protogen/golang/orders"
 	"github.com/grpc-ecosystem/grpc-gateway/v2/runtime"
 
 	"google.golang.org/genproto/googleapis/cloud/bigquery/connection/v1"
