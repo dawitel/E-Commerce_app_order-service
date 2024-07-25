@@ -1,8 +1,12 @@
-module github.com/dawitel/E-Commerce_app_order-service
+module github.com/dawitel/E-Commerce_app_order-service.git
+
+
 
 go 1.22.0
 
 require (
+	cloud.google.com/go/bigquery v1.62.0 // indirect
+	cloud.google.com/go/iam v1.1.11 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.20.0 // indirect
 	golang.org/x/net v0.27.0 // indirect
 	golang.org/x/sys v0.22.0 // indirect
